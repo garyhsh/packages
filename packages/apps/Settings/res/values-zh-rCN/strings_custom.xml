@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="smart_brightness_title">智能背光</string>
+    <string name="smart_brightness_summary">自动调整背光亮度</string>
+    <string name="smart_brightness_preview">演示模式</string>
+    <string name="hdmi_output_mode">HDMI输出模式</string>
+    <string name="hdmi_output_mode_summary">设置默认的HDMI输出制式</string>
+    <string name="close_backlight">插入HDMI后30秒无操作关闭LCD背光</string>
+    <string name="close_backlight_summary">触摸屏幕立即点亮</string>
+    
+    <!-- Media Scan -->
+    <string name="media_scan_category">媒体扫描</string>
+    <string name="media_scan_title">启用 %1$s 上的媒体扫描</string>
+    <string name="usb_storage_usage">USB 大容量存储</string>
+    
+    <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+    <!--               new strings for crane                  -->
+    <string name="tscalibration_title">"校准触摸屏"</string>
+    <string name="accelerometer_coordinate_title">重力感应坐标系</string>
+    <string name="screen_adaption_title">启用屏幕适配</string>
+    <string name="screen_adaption_summary">用于调整部分游戏的屏幕显示尺寸.</string>
+    <string name="screen_adaption_summary_off">当前分辨率：</string>
+    <string name="screen_adaption_summary_on">点击确认后重启生效</string>
+    <string name="display_mode_selector_title">显示模式</string>
+    <string name="screen_adaption_setting">屏幕适配</string>
+    
+    <string name="google_market_is_not_found">没有找到应用市场.</string>
+    <string name="default_tts_speech_is_not_found">请选择一个默认的TTS语音引擎并设置一种默认语言.</string>
+</resources>

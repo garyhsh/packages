@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="smart_brightness_title">Smart backlight</string>
+    <string name="smart_brightness_summary">Auto adjust the backlight.</string>
+    <string name="smart_brightness_preview">Preview mode</string>
+    <string name="hdmi_output_mode">HDMI output mode</string>
+    <string name="hdmi_output_mode_summary">Set the default output mode of HDMI</string>
+    
+    <!-- Media scanner -->
+    <string name="media_scan_category">Media scan</string>
+    <string name="media_scan_title">Enable media scanning on %1$s</string>
+    <string name="usb_storage_usage">USB large storage</string>
+    
+    <!-- ++++++++++++++++++++++++++++++++++++++++++ -->
+    <!--           new strings for crane            -->
+    <string name="tscalibration_title">Calibrating the touch screen</string>
+    
+    <string name="accelerometer_coordinate_title">Accelerometer coordinate system</string>
+    
+    <!-- Screen Adaption -->
+    <string name="screen_adaption_title">Enable screen adaption</string>
+    <string name="screen_adaption_summary">Used to adjust size of some games display screen .</string>
+    <string name="screen_adaption_summary_off">The current resolution:</string>
+    <string name="screen_adaption_summary_on">Works after restart</string>
+    <string name="display_mode_selector_title">Display mode</string>
+    <string name="screen_adaption_setting">screen adaption</string>
+    
+    <string name="google_market_is_not_found">Application market is not found.</string>
+    <string name="default_tts_speech_is_not_found">Please choice a default tts speech engine and choice a default language.</string>
+</resources>
